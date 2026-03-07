@@ -16,7 +16,7 @@ I love Xinya College. Check my resume at https://zephinuecode.github.io/resume/.
 
 Undergraduate, Xinya College, Tsinghua University.
 
-AI Algorithm Engineer Intern, Xiaomi Corporation
+AI Algorithm Engineer Intern, Xiaomi Corporation.
 
 ### Publications
 
