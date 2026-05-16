@@ -26,6 +26,8 @@ AI Algorithm Engineer Intern, Xiaomi Corporation.
 
 1st author of **ToolTok: Tool Tokenization for Efficient and Generalizable GUI Agents** (Preprint)
 
+1st author of **Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space** (Preprint)
+
 ### Current Interests
 
 - Vision Language Models
@@ -34,4 +36,4 @@ AI Algorithm Engineer Intern, Xiaomi Corporation.
 
 - Multimodal generative models
 
-- VLA models
+- Mechanistic Interpretability
