@@ -16,7 +16,7 @@ I love Xinya College. Check my resume at https://zephinuecode.github.io/resume/.
 
 Undergraduate, Xinya College, Tsinghua University.
 
-AI Algorithm Engineer Intern, Xiaomi Corporation.
+Research Intern, MemoraX
 
 ### Publications
 
@@ -27,6 +27,8 @@ AI Algorithm Engineer Intern, Xiaomi Corporation.
 1st author of **ToolTok: Tool Tokenization for Efficient and Generalizable GUI Agents** (Preprint)
 
 1st author of **Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space** (Preprint)
+
+3rd author of **SynCred-Bench: Benchmarking Synthetic Credibility in AI-Generated Visual Misinformation** (Preprint)
 
 ### Current Interests
 
